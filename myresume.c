@@ -214,13 +214,7 @@ void _________ _$_ {
 }
 
 void ___________ _$_ {
-    _I_ "0000000000000000000000000000000000=<================================================<\r\n"
-                "00000000000000000000000000000000000-{c|y$|q0u#w0| $t0<&}%$~0% r00uqxt~tu%00 ty y$%0>-\r\n"
-                "0000000000000000000000000000000000=7================================================7\r\n\r\n\r\n";
     _A_ "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM\r\n\r\n\r\n";
-    _P_(______);
-    _P_(_);
-    srtlen(______);
     srtlen(_);
 }
 
